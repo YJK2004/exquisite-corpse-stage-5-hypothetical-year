@@ -72,8 +72,7 @@ The code loses some functionality after September, and the background images sto
 
 
 ### 🟪 Stage 5
-- Name/Alias:
-- Github account:
-- Published webpage for stage 5:
-
-*... comments to be added here*
+- Name/Alias: Sarah
+- Github account: https://github.com/YJK2004
+- Published webpage for stage 5: https://yjk2004.github.io/exquisite-corpse-stage-5-hypothetical-year/
+#### notes
